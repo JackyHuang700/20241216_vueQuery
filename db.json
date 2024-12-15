@@ -1,0 +1,131 @@
+{
+  "todos": [
+    {
+      "id": "49df90ac-b103-5b03-8126-b14d38d0510b",
+      "label": "test onError",
+      "checked": false
+    },
+    {
+      "id": "49df90ac-b103-4b03-8126-b14d38d0550b",
+      "label": "New Todo123456",
+      "checked": false
+    },
+    {
+      "id": "22fb1911-95a2-4651-a0d6-9ccf01cbe414",
+      "label": "New Todo1",
+      "checked": false
+    },
+    {
+      "id": "2dedff31-7d76-4625-9dbf-7d3c0af43a6c",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "059fb876-a098-4b8e-aea1-eb77c491d796",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "c3423984-4fda-4472-8876-de1d7dfdf504",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "3c74eaea-6b81-4a14-a776-b8428584cc3f",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "3ffe46b4-9cd3-4547-b65a-3b4f2fc00fdf",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "9895694d-1e82-46e3-bb34-67f35df1acf3",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "53db98c1-5be2-4edf-aa7f-b112efa89b61",
+      "label": "New Todo",
+      "checked": false
+    },
+    {
+      "id": "a2102611-5d11-4134-a209-99285b44ffc8",
+      "label": "1",
+      "checked": false
+    },
+    {
+      "id": "fecb9962-d732-4093-a62e-4ffb83dbfbaa",
+      "label": "2",
+      "checked": false
+    },
+    {
+      "id": "18664ea9-878e-4b21-9a26-c183a366be46",
+      "label": "3",
+      "checked": false
+    },
+    {
+      "id": "00499369-7c1f-4ced-81ae-bdd8aa04ba71",
+      "label": "4",
+      "checked": false
+    },
+    {
+      "id": "ca0b4c29-b2a2-4332-876e-d089ca71e518",
+      "label": "5",
+      "checked": false
+    },
+    {
+      "id": "4aa7e748-f108-4c3d-a353-6e0721b71244",
+      "label": "6",
+      "checked": false
+    },
+    {
+      "id": "5a1752c3-3320-434e-af56-05a89ad0d119",
+      "label": "7",
+      "checked": false
+    },
+    {
+      "id": "19e81642-602a-4244-a99c-496f738fe1cd",
+      "label": "8",
+      "checked": false
+    },
+    {
+      "id": "3b2512f8-cb55-49d7-ace3-0931274cd4e0",
+      "label": "9",
+      "checked": false
+    },
+    {
+      "id": "53482e25-d205-463c-98ea-4408fe5d0826",
+      "label": "10",
+      "checked": false
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
